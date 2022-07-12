@@ -17,6 +17,8 @@ https://docs.google.com/forms/d/e/1FAIpQLSexkzYHyNAnzWpEt6NrSvJO5UhMY3zBRg9x8C8K
 終わり
 
 ### よくある？質問
+#### 毎回やるんですか？
+いいえ。初回のみで結構です。
 
 #### めんどくさいす
 ごめんなさい。
