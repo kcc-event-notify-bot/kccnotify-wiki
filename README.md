@@ -20,7 +20,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSexkzYHyNAnzWpEt6NrSvJO5UhMY3zBRg9x8C8K
 
 ### よくある？質問
 #### 毎回やるんですか？
-いいえ。初回のみで結構です。
+いいえ。初回(KCCNotifyとのDMを開通していない方)のみで結構です。
 
 #### めんどくさいす
 ごめんなさい。
