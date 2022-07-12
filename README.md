@@ -4,6 +4,8 @@
 
 当botのwikiをご覧いただきありがとうございます。
 
+### DMでリマインドメッセージを受け取りたい方のみ、読み進めてください。
+
 1. 下記のリンクから、ご自身のTwitterID (@を除く)を入力し、送信してください
 
 https://docs.google.com/forms/d/e/1FAIpQLSexkzYHyNAnzWpEt6NrSvJO5UhMY3zBRg9x8C8KmVgEDZwIDQ/viewform
