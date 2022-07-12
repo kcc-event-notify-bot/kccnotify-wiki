@@ -12,7 +12,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSexkzYHyNAnzWpEt6NrSvJO5UhMY3zBRg9x8C8K
 
 2. 送信が完了すると、数分後に自動でフォローバック、またはフォローリクエストが届きますので、承認をお願いします。
 
-3. 相互フォロー状態になったら、@KCCNotifyへ「適当な文字列(例: test)」で結構ですので、一度だけ送信して、DMの開通をお願いいたします。
+3. 相互フォロー状態になったら、@KCCNotifyのDMに「/ping」を一度だけ送信して、「pong」と返ってきたらDMの開通は完了です。
 
 4. その後はbotの案内に従って、リマインドの登録を進めてください
 
